@@ -7,4 +7,4 @@
 # Description :
 
 Introduction-
-![Image Description]([Screenshot_1695206143](https://github.com/PrithviRajput16/SEEMA/blob/main/Screenshot_1695206143.png)https://github.com/PrithviRajput16/SEEMA/blob/main/Screenshot_1695206143.png)
+<img src="https://github.com/PrithviRajput16/SEEMA/blob/main/Screenshot_1695206143.png" alt="">
