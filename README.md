@@ -10,6 +10,8 @@
 
 ![Screenshot](https://github.com/PrithviRajput16/SEEMA/raw/main/Screenshot_1695206143.png)
 ![Screenshot](https://github.com/PrithviRajput16/SEEMA/raw/6cd7ac6c873608c13cdda7c50af4d02c48bc6f38/Screenshot_1695206147.png)
+![Screenshot](https://github.com/PrithviRajput16/SEEMA/raw/5f303d8b2eb00585d5e576b22d60c06c9cf8643f/Screenshot_1695206152.png)
+![Screenshot](https://github.com/PrithviRajput16/SEEMA/raw/80010f673008f4283390527d625f5107624801ee/Screenshot_1695206157.png)
 
 # Introduction-
 S.E.E.M.A. strives to manage, track, and promote equitable distribution of renewable electricity in densely populated India, addressing challenges in solar installation access.
