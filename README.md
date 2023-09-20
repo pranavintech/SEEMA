@@ -45,7 +45,7 @@ Access expert consultancy to maximize subsidies and incentives.
 6.) Subsidy and incentive seekers
 7.) Urban planners and municipal authorities
 
-# Market stats-
+# Market statistics-
 
 Market Size of Renewable Energy in India:
 - In 2022, India's renewable energy market size was US$ 20 Billion.
